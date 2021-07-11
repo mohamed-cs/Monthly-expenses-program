@@ -21,9 +21,9 @@
 <li>Filter by amount.</li>
 <li>Can use more than one filter at the same time.</li>
  </ul>
-<li><img src="https://img.icons8.com/ios/50/000000/view-file.png"width="25"/>View the remaining money For each wallet.</li>
-<li><img src="https://img.icons8.com/ios/50/000000/view-file.png"width="25"/>View the expenses filtered by wallet.</li>
-<li><img src="https://img.icons8.com/ios/50/000000/view-file.png"width="25"/>View the remaining money for all wallets.</li>
+<li>View the remaining money For each wallet.</li>
+<li>View the expenses filtered by wallet.</li>
+<li>View the remaining money for all wallets.</li>
  
  </ul>
  </ul>
