@@ -25,7 +25,8 @@
 <li>View the expenses filtered by wallet.</li>
 <li>View the remaining money for all wallets.</li>
  
-     </ul>
+ </ul>
+ </ul>
 <li>For monthly income: Can add multiple wallets like for cash, a debit card, or a credit card.</li>
 <li>Help calculating your debt and saving based on your income and expense information.</li>  
 </ul></div> 
