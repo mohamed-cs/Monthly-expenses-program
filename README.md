@@ -31,7 +31,7 @@
 <li>Help calculating your debt and saving based on your income and expense information.</li>  
 </ul></div> 
  
- <h2><img src="https://img.icons8.com/ios/50/000000/external-tools-construction-and-tools-kiranshastry-lineal-color-kiranshastry.png"/>Development Tool</h2>
+ <h2><img <img src="https://img.icons8.com/ios/50/4a90e2/accessibility-tools.png"/>Development Tool</h2>
  <ul>
  <li>Clion</li>
  <li>C++ Language</li>
