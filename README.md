@@ -13,7 +13,7 @@
 <li> Expense has a category and date.</li>
 <li>Expense must be from one existing wallet.</li>
  </ul>
-<li>View the expenses.</li>
+<li><img src="https://img.icons8.com/material-outlined/24/000000/search--v2.png" width="50"/>View the expenses.</li>
 <ul>
 <li>All expenses.</li>
 <li>Filter by date.</li>
@@ -30,3 +30,12 @@
 <li>For monthly income: Can add multiple wallets like for cash, a debit card, or a credit card.</li>
 <li>Help calculating your debt and saving based on your income and expense information.</li>  
 </ul></div> 
+ 
+ <h2>Development Tool</h2>
+ <ul>
+ <li>Visual Studio</li>
+ <li>C++ Language</li>
+ </ul>
+ 
+
+
