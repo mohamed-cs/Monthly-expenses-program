@@ -13,7 +13,7 @@
 <li> Expense has a category and date.</li>
 <li>Expense must be from one existing wallet.</li>
  </ul>
-<li><img src="https://img.icons8.com/material-outlined/24/000000/search--v2.png" width="30"/>View the expenses.</li>
+<li><img src="https://img.icons8.com/material-outlined/24/000000/search--v2.png" width="15"/>View the expenses.</li>
 <ul>
 <li>All expenses.</li>
 <li>Filter by date.</li>
