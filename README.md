@@ -1,7 +1,7 @@
 <p><img align="right" src="https://ums.asu.edu.eg/images/logo.png" width="150" "></p>
 <p><h1>📌 Monthly-expenses-program</h1></p>
  <p>If you have decided to take control of your financial situation you will need a powerful finance software that will let you create a monthly budget, track spending, and present the data to you in a way that will allow you to have insights about your habit and know how to manage your money better.</p><br/>
- <h2><img src="https://img.icons8.com/ios/50/000000/table-properties.png"/>Properties</h2>
+ <h2><img src="https://img.icons8.com/ios/50/4a90e2/table-properties.png"/>Properties</h2>
 <div style="float:left; width:100;">
 <ul>
   <li>The Program is  user friendly.</li>
@@ -13,7 +13,7 @@
 <li> Expense has a category and date.</li>
 <li>Expense must be from one existing wallet.</li>
  </ul>
-<li><img src="https://img.icons8.com/material-outlined/24/000000/search--v2.png" width="35"/>View the expenses.</li>
+<li><img src="https://img.icons8.com/ios-filled/50/4a90e2/search.png"width="35"/>View the expenses.</li>
 <ul>
 <li>All expenses.</li>
 <li>Filter by date.</li>
@@ -31,9 +31,9 @@
 <li>Help calculating your debt and saving based on your income and expense information.</li>  
 </ul></div> 
  
- <h2>Development Tool</h2>
+ <h2><img src="https://img.icons8.com/ios/50/000000/external-tools-construction-and-tools-kiranshastry-lineal-color-kiranshastry.png"/>Development Tool</h2>
  <ul>
- <li>Visual Studio</li>
+ <li>Clion</li>
  <li>C++ Language</li>
  </ul>
  
